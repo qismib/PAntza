@@ -13,7 +13,7 @@ Per ulteriori dettagli sulla pulsedVQE, fare riferimento ai seguenti articoli e 
 
 ## Contenuti
 
-- `scripts/`: Contiene i file sorgente principali.
+- `scripts/`: Contiene i file sorgente principali e file testo con alcune note dello studente.
 - `notebooks/`: Jupyter notebooks per analisi dati o esperimenti.
 - `librerie.txt`: Il seguente file riporta l'insieme di tutte le librerie installate nell'ambiente virtuale in cui i codici vengono compilati.
 - `LICENSE`: Licenza del progetto.
