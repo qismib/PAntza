@@ -12,8 +12,15 @@ Per ulteriori dettagli sulla pulsedVQE, fare riferimento ai seguenti articoli e 
 - [Documentazione Qiskit](https://qiskit.org/documentation/)
 
 ## VQA
+1. Forma Variazionale: I VQA utilizzano un circuito quantistico variazionale, noto anche come forma variazionale o ansatz, per codificare uno stato quantistico parametrizzato. I parametri nel circuito vengono regolati durante il processo di ottimizzazione per minimizzare una funzione di costo.
 
+2. Misurazione Quantistica: Dopo aver preparato lo stato variazionale, il computer quantistico effettua misurazioni per estrarre informazioni sullo stato quantistico. Queste misurazioni vengono utilizzate per calcolare la funzione di costo.
+
+3. Ottimizzazione Classica: La parte classica dell'algoritmo è responsabile dell'ottimizzazione dei parametri della forma variazionale. Regola iterativamente i parametri per minimizzare la funzione di costo, tipicamente utilizzando algoritmi di ottimizzazione classici.
+
+4. Ripetizione e Iterazione: I passaggi da 1 a 3 vengono ripetuti fino a quando l'algoritmo converge a una soluzione che minimizza la funzione di costo. I parametri risultanti codificano la soluzione al problema di ottimizzazione.
 ![Credit: https://www.physics.ox.ac.uk/](VQA.png)
+Credit: https://www.physics.ox.ac.uk/
 
 ## Contenuti
 
