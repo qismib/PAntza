@@ -8,12 +8,12 @@ Il codice caricato sarà ripartito principalmente all'interno delle cartelle not
 La pulsedVQE è implementata utilizzando [Qiskit](https://qiskit.org/), una libreria open-source di sviluppo software per calcolatori quantistici IBM. Qiskit fornisce gli strumenti necessari per progettare, simulare ed eseguire algoritmi quantistici su computer quantistici reali o simulatori.
 
 Per ulteriori dettagli sulla pulsedVQE, fare riferimento ai seguenti articoli e risorse:
-- [Referenza sulla pulsedVQE eseguita attraverso Qiskit](VQA.png)
+- [Referenza sulla pulsedVQE eseguita attraverso Qiskit](https://medium.com/qiskit/enhance-variational-quantum-algorithms-with-qiskit-pulse-and-qiskit-dynamics-768249daf8dd)
 - [Documentazione Qiskit](https://qiskit.org/documentation/)
 
 ## VQA
 
-![credit: University of Oxford, department of physics](NISQ_0.jpeg%3Fitok=q1tYPacv)
+![Credit: https://www.physics.ox.ac.uk/](VQA.png)
 
 ## Contenuti
 
