@@ -1,38 +1,39 @@
-# S.P.Q.R. (Superbus Pulsorum Quantisticum Resopitorum)
-PulseVQE Thesis Repository.
-Questa repository contiene i codici ed i materiali associati alla tesi triennale in Fisica presso l'Università Milano Bicocca dello studende Riccardo Marega.
-Il codice caricato sarà ripartito principalmente all'interno delle cartelle notebooks e scripts. La prima di queste conterrà un numero limitato di juputer notebooks ma rappresentativi delle conoscenze correnti dello studente. Nella seconda saranno invece riportati scripts python contenenti frammenti di codice appartenenti a programmi eventualmente caricati nella cartella notebooks.
+# PulseVQE
 
-## Qiskit e PulsedVQE
+This repository contains the code and materials associated with the undergraduate thesis in Physics at the University of Milano Bicocca by the student Riccardo Marega. The uploaded code will be mainly organized within the folders `notebooks` and `scripts`. The first of these will contain a limited number of Jupyter notebooks, representative of the student's current knowledge. The second will instead contain Python scripts containing code snippets belonging to programs potentially loaded in the `notebooks` folder.
 
-La pulsedVQE è implementata utilizzando [Qiskit](https://qiskit.org/), una libreria open-source di sviluppo software per calcolatori quantistici IBM. Qiskit fornisce gli strumenti necessari per progettare, simulare ed eseguire algoritmi quantistici su computer quantistici reali o simulatori.
+## Qiskit and PulsedVQE
 
-Per ulteriori dettagli sulla pulsedVQE, fare riferimento ai seguenti articoli e risorse:
-- [Referenza sulla pulsedVQE eseguita attraverso Qiskit](https://medium.com/qiskit/enhance-variational-quantum-algorithms-with-qiskit-pulse-and-qiskit-dynamics-768249daf8dd)
-- [Documentazione Qiskit](https://qiskit.org/documentation/)
+PulsedVQE is implemented using [Qiskit](https://qiskit.org/), an open-source software development library for IBM quantum computers. Qiskit provides the necessary tools to design, simulate, and run quantum algorithms on real quantum computers or simulators.
 
-## VQA
-1. Forma Variazionale: I VQA utilizzano un circuito quantistico variazionale, noto anche come forma variazionale o ansatz, per codificare uno stato quantistico parametrizzato. I parametri nel circuito vengono regolati durante il processo di ottimizzazione per minimizzare una funzione di costo.
+For further details on PulsedVQE, refer to the following articles and resources:
+- [Reference on PulsedVQE executed through Qiskit](https://medium.com/qiskit/enhance-variational-quantum-algorithms-with-qiskit-pulse-and-qiskit-dynamics-768249daf8dd)
+- [Qiskit Documentation](https://qiskit.org/documentation/)
 
-2. Misurazione Quantistica: Dopo aver preparato lo stato variazionale, il computer quantistico effettua misurazioni per estrarre informazioni sullo stato quantistico. Queste misurazioni vengono utilizzate per calcolare la funzione di costo.
+## VQA (Variational Quantum Algorithms)
 
-3. Ottimizzazione Classica: La parte classica dell'algoritmo è responsabile dell'ottimizzazione dei parametri della forma variazionale. Regola iterativamente i parametri per minimizzare la funzione di costo, tipicamente utilizzando algoritmi di ottimizzazione classici.
+1. Variational Form: VQA uses a variational quantum circuit, also known as a variational form or ansatz, to encode a parameterized quantum state. The parameters in the circuit are adjusted during the optimization process to minimize a cost function.
 
-4. Ripetizione e Iterazione: I passaggi da 1 a 3 vengono ripetuti fino a quando l'algoritmo converge a una soluzione che minimizza la funzione di costo. I parametri risultanti codificano la soluzione al problema di ottimizzazione.
+2. Quantum Measurement: After preparing the variational state, the quantum computer performs measurements to extract information about the quantum state. These measurements are used to calculate the cost function.
+
+3. Classical Optimization: The classical part of the algorithm is responsible for optimizing the parameters of the variational form. It iteratively adjusts the parameters to minimize the cost function, typically using classical optimization algorithms.
+
+4. Repetition and Iteration: Steps 1 to 3 are repeated until the algorithm converges to a solution that minimizes the cost function. The resulting parameters encode the solution to the optimization problem.
 ![Credit: https://www.physics.ox.ac.uk/](VQA.png)
 Credit: https://www.physics.ox.ac.uk/
 
-## Contenuti
+## Contents
 
-- `scripts/`: Contiene i file sorgente principali e file testo con alcune note dello studente.
-- `graphs/`: Contiene alcuni grafici necessari come spunti di riflessione per approfondire le proprie basi teoriche.
-- `notebooks/`: Jupyter notebooks per analisi dati o esperimenti.
-- `librerie.txt`: Il seguente file riporta l'insieme di tutte le librerie installate nell'ambiente virtuale in cui i codici vengono compilati.
-- `LICENSE`: Licenza del progetto.
-- `README.md`: Questo file README.
+- `scripts/`: Contains the main source files and text files with some notes from the student.
+- `graphs/`: Contains some necessary graphs as reflections to deepen theoretical foundations.
+- `notebooks/`: Jupyter notebooks for data analysis or experiments.
+- `librerie.txt`: The following file lists all the libraries installed in the virtual environment where the codes are compiled.
+- `LICENSE`: Project license.
+- `README.md`: This README file.
 
-**Studente:** [Riccrdo Marega]
-**Istituzione:** [Università Milano Bicocca]
-**Corso di Studio:** [Laurea triennale in Fisica]
-**Anno Accademico:** [2023/2024]
+**Student:** [Riccardo Marega]
+**Institution:** [University of Milano Bicocca]
+**Study Course:** [Undergraduate degree in Physics]
+**Academic Year:** [2023/2024]
+
   
