@@ -1,5 +1,10 @@
 [![Python Version](https://img.shields.io/badge/Python-3-blue)](https://www.python.org/)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org/)
+[![Qiskit](https://img.shields.io/badge/Qiskit-0.45.1-blue.svg?style=flat-square&logo=qiskit&logoColor=white)](https://www.ibm.com/quantum/qiskit)
+<div style="position: absolute; top: 0; right: 0;">
+  <img src="Bloch_Sphere.gif" alt="Bloch Sphere GIF">
+</div>
+
 # PulseVQE
 
 This repository contains the code and materials associated with the undergraduate thesis in Physics at the University of Milano Bicocca by the student Riccardo Marega. The uploaded code will be mainly organized within the folders `notebooks` and `scripts`. The first of these will contain a limited number of Jupyter notebooks, representative of the student's current knowledge. The second will instead contain Python scripts containing code snippets belonging to programs potentially loaded in the `notebooks` folder.
