@@ -1,6 +1,5 @@
 [![Python Version](https://img.shields.io/badge/Python-3-blue)](https://www.python.org/)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org/)
-[![Building Columns](https://img.shields.io/static/v1?label=Building&message=Columns&color=brightgreen&logo=font-awesome&logoColor=white)](https://fontawesome.com/v6.0.0/icon/building-columns)
 # PulseVQE
 
 This repository contains the code and materials associated with the undergraduate thesis in Physics at the University of Milano Bicocca by the student Riccardo Marega. The uploaded code will be mainly organized within the folders `notebooks` and `scripts`. The first of these will contain a limited number of Jupyter notebooks, representative of the student's current knowledge. The second will instead contain Python scripts containing code snippets belonging to programs potentially loaded in the `notebooks` folder.
