@@ -1,7 +1,7 @@
 [![Python Version](https://img.shields.io/badge/Python-3-blue)](https://www.python.org/)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org/)
 [![Qiskit](https://img.shields.io/badge/Qiskit-0.45.1-blue.svg?style=flat-square&logo=qiskit&logoColor=white)](https://www.ibm.com/quantum/qiskit)
-![Bloch Sphere GIF](Bloch_Sphere.gif)
+
 
 # PulseVQE
 
