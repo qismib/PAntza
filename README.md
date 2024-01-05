@@ -3,7 +3,7 @@
 [![Qiskit](https://img.shields.io/badge/Qiskit-0.45.1-blue.svg?style=flat-square&logo=qiskit&logoColor=white)](https://www.ibm.com/quantum/qiskit)
 
 
-# PANZA (PUlse-based ANsatZ for variational Algorithms)
+# PAntza (Pulse-based ANsaTZ for variational Algorithms)
 
 This repository contains the code and materials associated with the undergraduate thesis in Physics at the University of Milano Bicocca by the student Riccardo Marega. The uploaded code will be mainly organized within the folders `notebooks` and `scripts`. The first of these will contain a limited number of Jupyter notebooks, representative of the student's current knowledge. The second will instead contain Python scripts containing code snippets belonging to programs potentially loaded in the `notebooks` folder.
 
