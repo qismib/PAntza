@@ -29,8 +29,8 @@ Credit: https://www.physics.ox.ac.uk/
 
 ## Thesis
 
-Anyone with this link can edit this project: https://it.overleaf.com/7592676962gqjxrcwkqxhw#3f4030
-Anyone with this link can view this project: https://it.overleaf.com/read/xhqqkywdzgrb#0d12b7
+- Anyone with this link can edit this project: https://it.overleaf.com/7592676962gqjxrcwkqxhw#3f4030
+- Anyone with this link can view this project: https://it.overleaf.com/read/xhqqkywdzgrb#0d12b7
 
 ## Contents
 
