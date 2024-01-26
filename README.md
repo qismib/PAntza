@@ -27,6 +27,11 @@ For further details on PulsedVQE, refer to the following articles and resources:
 ![Credit: https://www.physics.ox.ac.uk/](VQA.png)
 Credit: https://www.physics.ox.ac.uk/
 
+## Thesis
+
+Anyone with this link can edit this project: https://it.overleaf.com/7592676962gqjxrcwkqxhw#3f4030
+Anyone with this link can view this project: https://it.overleaf.com/read/xhqqkywdzgrb#0d12b7
+
 ## Contents
 
 - `scripts/`: Contains the main source files and text files with some notes from the student.
