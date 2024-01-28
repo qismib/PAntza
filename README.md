@@ -32,6 +32,12 @@ Credit: https://www.physics.ox.ac.uk/
 - Anyone with this link can edit this project: https://it.overleaf.com/7592676962gqjxrcwkqxhw#3f4030
 - Anyone with this link can view this project: https://it.overleaf.com/read/xhqqkywdzgrb#0d12b7
 
+Progress:
+- Chapter 1: <progress value="70" max="100"></progress>
+- Chapter 2: <progress value="0" max="100"></progress>
+- Chapter 3: <progress value="0" max="100"></progress>
+- Chapter 4: <progress value="0" max="100"></progress>
+
 ## Contents
 
 - `scripts/`: Contains the main source files and text files with some notes from the student.
