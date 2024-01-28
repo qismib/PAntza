@@ -33,10 +33,11 @@ Credit: https://www.physics.ox.ac.uk/
 - Anyone with this link can view this project: https://it.overleaf.com/read/xhqqkywdzgrb#0d12b7
 
 Progress:
-- Chapter 1: <progress value="70" max="100"></progress>
-- Chapter 2: <progress value="0" max="100"></progress>
-- Chapter 3: <progress value="0" max="100"></progress>
-- Chapter 4: <progress value="0" max="100"></progress>
+Progresso:
+- Capitolo 1: ![70%](https://progress-bar.dev/70)
+- Capitolo 2: ![0%](https://progress-bar.dev/0)
+- Capitolo 3: ![0%](https://progress-bar.dev/0)
+- Capitolo 4: ![0%](https://progress-bar.dev/0)
 
 ## Contents
 
