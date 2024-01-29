@@ -34,7 +34,7 @@ Credit: https://www.physics.ox.ac.uk/
 
 Progress:
 - Chapter 1: ![70%](https://progress-bar.dev/71)
-- Chapter 2: ![0%](https://progress-bar.dev/1)
+- Chapter 2: ![0%](https://progress-bar.dev/4)
 - Chapter 3: ![0%](https://progress-bar.dev/0)
 - Chapter 4: ![0%](https://progress-bar.dev/0)
 
