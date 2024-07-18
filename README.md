@@ -29,14 +29,13 @@ Credit: https://www.physics.ox.ac.uk/
 
 ## Thesis
 
-- Anyone with this link can edit this project: https://it.overleaf.com/7592676962gqjxrcwkqxhw#3f4030
-- Anyone with this link can view this project: https://it.overleaf.com/read/xhqqkywdzgrb#0d12b7
-
 Progress:
-- Chapter 1: ![70%](https://progress-bar.dev/80)
-- Chapter 2: ![70%](https://progress-bar.dev/80)
-- Chapter 3: ![0%](https://progress-bar.dev/0)
-- Chapter 4: ![0%](https://progress-bar.dev/0)
+- Chapter 1: ![100%](https://progress-bar.dev/100)
+- Chapter 2: ![100%](https://progress-bar.dev/100)
+- Chapter 3: ![100%](https://progress-bar.dev/100)
+- Chapter 4: ![100%](https://progress-bar.dev/100)
+
+You can find the thesis [here](Tesi_Marega_865371.pdf)
 
 ## Contents
 
@@ -46,6 +45,8 @@ Progress:
 - `librerie.txt`: The following file lists all the libraries installed in the virtual environment where the codes are compiled.
 - `LICENSE`: Project license.
 - `README.md`: This README file.
+
+If you need any further clarifications or if you have any questions feel free to contact me at: r.marega@campus.unimib.it
 
 **Student:** [Riccardo Marega]
 **Institution:** [University of Milano Bicocca]
